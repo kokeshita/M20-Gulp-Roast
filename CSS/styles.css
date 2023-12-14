@@ -1,4 +1,3 @@
-
 /* Change background color in header & footer*/
 body .bg-primary {
     background-color: #082B59 !important;
@@ -15,7 +14,7 @@ body .border-warning {
 }
 
 /* Change background color in buttons*/
-body .btn.btn-primary{
+body .btn.btn-primary {
     background-color: #082B59 !important;
 }
 
@@ -26,22 +25,22 @@ body .btn {
 
 
 /* Change color in nav pills */
-/* background color */
+/* Background color */
 .nav-pills .nav-link {
     background-color: #ffffff !important;
 }
 
-/* text color */
+/* Text color */
 .nav-pills .nav-link {
     color: #082B59 !important;
 }
 
-/* active tab background color */
+/* Active tab background color */
 .nav-pills .nav-link.active {
     background-color: #082B59 !important;
 }
 
-/* active tab text color */
+/* Active tab text color */
 .nav-pills .nav-link.active {
     color: #ffffff !important;
 }
