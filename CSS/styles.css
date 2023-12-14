@@ -46,7 +46,7 @@ body .btn {
     color: #ffffff !important;
 }
 
-
+/* Remove border from hamburger menu */
 .navbar-toggler,
 .navbar-toggler:focus,
 .navbar-toggler:active,
