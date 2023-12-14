@@ -1,0 +1,48 @@
+
+/* Change background color in header & footer*/
+body .bg-primary {
+    background-color: #082B59 !important;
+}
+
+/* Change text color in nav and any other instances*/
+body .text-primary {
+    color: #082B59 !important;
+}
+
+/* Change border color in header & footer*/
+body .border-warning {
+    border-color: #D98555 !important;
+}
+
+/* Change background color in buttons*/
+body .btn.btn-primary{
+    background-color: #082B59 !important;
+}
+
+/* Change border in buttons*/
+body .btn {
+    border: none !important;
+}
+
+
+/* Change color in nav pills */
+/* background color */
+.nav-pills .nav-link {
+    background-color: #ffffff !important;
+}
+
+/* text color */
+.nav-pills .nav-link {
+    color: #082B59 !important;
+}
+
+/* active tab background color */
+.nav-pills .nav-link.active {
+    background-color: #082B59 !important;
+}
+
+/* active tab text color */
+.nav-pills .nav-link.active {
+    color: #ffffff !important;
+}
+
